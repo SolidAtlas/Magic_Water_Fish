@@ -1,6 +1,5 @@
 # Magic_Water_Fish
 Senior Project Underwater ROV arduino files
--------------------------------------------------------------------------
 
 Magic_Water_Fish_system_with_sensors is the current file
 
